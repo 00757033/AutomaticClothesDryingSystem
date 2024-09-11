@@ -19,5 +19,3 @@
 3. [太陽下山/陰天，提早收回衣架](https://youtu.be/TOjxbabVhTU)
 4. [下雨，提早收回衣架](https://youtu.be/-ippX9Tux0o)
 5. [在指定時間收回衣架](https://youtu.be/_iGHMvqTCms)
-
-#所有case中，衣架移動完成後，皆會發出聲音提醒
